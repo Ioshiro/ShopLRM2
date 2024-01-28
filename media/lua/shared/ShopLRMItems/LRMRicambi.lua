@@ -1,0 +1,1 @@
+Shop.Items["Base.FrontWindow1"] = {tab = Tab.Ricambi, price = 100}

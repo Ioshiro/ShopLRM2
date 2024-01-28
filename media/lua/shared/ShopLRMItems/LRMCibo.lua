@@ -1,0 +1,1 @@
+Shop.Items["Base.Butter"] = { tab = Tab.Cibo, price = 200}

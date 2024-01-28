@@ -1,0 +1,16 @@
+IGUI_EN = {
+    IGUI_Tab_All = "Tutto",
+    IGUI_Tab_Favorite = "Preferiti",
+    IGUI_Tab_Medical = "Medicine",
+    IGUI_Tab_Junk = "Spazzatura",
+    IGUI_Tab_Ammo = "Munizioni",
+    IGUI_Tab_Weapon = "Armi",
+    IGUI_Tab_Clothing = "Vestiti",
+    IGUI_Tab_Book = "Libri",
+    IGUI_Tab_Food = "Cibo",
+    IGUI_Tab_Mechanic = "Meccanico",
+    IGUI_Tab_Spare = "Ricambi",
+    IGUI_Tab_Survival = "Sopravvivenza",
+    IGUI_Tab_Special = "Speciale",
+    IGUI_Tab_Money = "Soldi",
+}

@@ -1,0 +1,57 @@
+module Base {
+
+ 	recipe Build Player Shop
+      {
+	    Plank=6,
+	    Nails=12,
+        KatePic = 1,
+        keep [Recipe.GetItemTypes.Hammer],
+
+        CanBeDoneFromFloor:true
+        Sound:Hammering,
+	    Result:PlayerShop,
+	    Time:150.0,
+	    Category:Carpentry,
+		Override:true,
+	  }
+
+	recipe Build Player Shop Freezer
+      {
+	    Plank=6,
+	    Nails=12,
+		Screws=20,
+		Radio.ElectricWire=2,
+		SheetMetal=4,
+		ElectronicsScrap=10,
+        KatePic = 1,
+
+        keep [Recipe.GetItemTypes.Hammer],
+		keep Screwdriver,
+
+        CanBeDoneFromFloor:true
+        Sound:Hammering,
+	    Result:PlayerShopFreezer,
+	    Time:150.0,
+	    Category:Carpentry,
+		Override:true,
+	  }
+	
+	item SCoin
+	{
+		Count	=	1,
+		Weight	=	0.01,
+		CanBeEquipped = FALSE,
+		Type	=	Normal,
+		DisplayName	=	S Coin,
+		Icon	=	SCoin,
+		WorldStaticModel = SCoin,
+	}
+
+	model SCoin 
+	{
+		mesh = WorldItems/Button,
+		texture = Item_SCoin,
+		scale = 1,
+	}
+	
+}
