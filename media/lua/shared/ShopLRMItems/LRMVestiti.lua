@@ -1,1 +1,1 @@
-Shop.Items["Base.Jacket_Padded"] = { tab = Tab.Vestiti, price = 42}
+Shop.Items["Base.Jacket_Padded"] = { tab = Tab.Vestiti, price = 50}

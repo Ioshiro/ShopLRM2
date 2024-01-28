@@ -1,1 +1,14 @@
-Shop.Items["Base.FrontWindow1"] = {tab = Tab.Ricambi, price = 100}
+Shop.Items["Base.LightBulb"] = {tab = Tab.Ricambi, price = 15}
+Shop.Items["Base.FrontWindow1"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.FrontWindow2"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.FrontWindow3"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.Windshield1"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.Windshield2"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.Windshield3"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.EngineDoor1"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.EngineDoor2"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.EngineDoor3"] = {tab = Tab.Ricambi, price = 250}
+Shop.Items["Base.CarBattery1"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.CarBattery2"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.CarBattery3"] = {tab = Tab.Ricambi, price = 150}
+Shop.Items["Base.CarBatteryCharger"] = {tab = Tab.Ricambi, price = 1000}
