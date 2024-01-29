@@ -11,4 +11,4 @@ Shop.Items["Base.EngineDoor3"] = {tab = Tab.Ricambi, price = 250}
 Shop.Items["Base.CarBattery1"] = {tab = Tab.Ricambi, price = 150}
 Shop.Items["Base.CarBattery2"] = {tab = Tab.Ricambi, price = 150}
 Shop.Items["Base.CarBattery3"] = {tab = Tab.Ricambi, price = 150}
-Shop.Items["Base.CarBatteryCharger"] = {tab = Tab.Ricambi, price = 1000}
+Shop.Items["Base.CarBatteryCharger"] = {tab = Tab.Ricambi, price = 3000}
