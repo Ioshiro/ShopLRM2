@@ -8,9 +8,3 @@ Shop.Items["SOMWReward.SRewardAxe"] = { tab = Tab.Armi, price = 25000}
 Shop.Items["SOMWReward.SRewardSpear"] = { tab = Tab.Armi, price = 35000}
 Shop.Items["SOMWReward.SRewardMachete"] = { tab = Tab.Armi, price = 35000}
 Shop.Items["SOMWReward.SRewardKatana"] = { tab = Tab.Armi, price = 50000}
-
-
-
-
-
-
