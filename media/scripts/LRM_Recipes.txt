@@ -3,6 +3,7 @@ module Base {
  	recipe Build Player Shop
       {
 	    Plank=6,
+		Money=50000
 	    Nails=12,
         KatePic = 1,
         keep [Recipe.GetItemTypes.Hammer],
@@ -19,6 +20,7 @@ module Base {
       {
 	    Plank=6,
 	    Nails=12,
+		Money=50000
 		Screws=20,
 		Radio.ElectricWire=2,
 		SheetMetal=4,
