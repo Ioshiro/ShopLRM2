@@ -2,10 +2,8 @@ module Base {
 
  	recipe Build Player Shop
       {
-	    Plank=6,
-		Money=50000
-	    Nails=12,
-        KatePic = 1,
+	    Plank=690,
+	    Nails=420,
         keep [Recipe.GetItemTypes.Hammer],
 
         CanBeDoneFromFloor:true
@@ -18,15 +16,12 @@ module Base {
 
 	recipe Build Player Shop Freezer
       {
-	    Plank=6,
-	    Nails=12,
-		Money=50000
-		Screws=20,
-		Radio.ElectricWire=2,
-		SheetMetal=4,
-		ElectronicsScrap=10,
-        KatePic = 1,
-
+	    Plank=690,
+	    Nails=420,
+		Screws=420,
+		Radio.ElectricWire=42,
+		SheetMetal=42,
+		ElectronicsScrap=420,
         keep [Recipe.GetItemTypes.Hammer],
 		keep Screwdriver,
 

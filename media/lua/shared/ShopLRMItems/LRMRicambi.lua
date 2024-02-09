@@ -14,7 +14,6 @@ Shop.Items["Base.NNormalCarSeat1"] = {tab = Tab.Ricambi, price = 180}
 Shop.Items["Base.NNormalCarSeat2"] = {tab = Tab.Ricambi, price = 180}
 Shop.Items["Base.NNormalCarSeat3"] = {tab = Tab.Ricambi, price = 180}
 
-
 Shop.Items["Base.FrontWindow1"] = {tab = Tab.Ricambi, price = 160}
 Shop.Items["Base.FrontWindow2"] = {tab = Tab.Ricambi, price = 160}
 Shop.Items["Base.FrontWindow3"] = {tab = Tab.Ricambi, price = 160}
@@ -24,8 +23,6 @@ Shop.Items["Base.ModernTire3"] = {tab = Tab.Ricambi, price = 165}
 Shop.Items["Base.NormalTire1"] = {tab = Tab.Ricambi, price = 135}
 Shop.Items["Base.NormalTire2"] = {tab = Tab.Ricambi, price = 135}
 Shop.Items["Base.NormalTire3"] = {tab = Tab.Ricambi, price = 135}
-
-
 
 Shop.Items["Base.TrunkDoor1"] = {tab = Tab.Ricambi, price = 200}
 Shop.Items["Base.TrunkDoor2"] = {tab = Tab.Ricambi, price = 200}
