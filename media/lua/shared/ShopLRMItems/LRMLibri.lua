@@ -53,7 +53,7 @@ Shop.Items["Base.BookFishing1"] = { tab = Tab.Libri, price = 130 }
 Shop.Items["Base.BookFishing2"] = { tab = Tab.Libri, price = 140 }
 Shop.Items["Base.BookFishing3"] = { tab = Tab.Libri, price = 150 }
 Shop.Items["Base.BookFishing4"] = { tab = Tab.Libri, price = 160 }
-Shop.Items["Base.BookFishing5"] = { tab = Tab.Libri, price = 180 }
+Shop.Items["Base.BookFishing5"] = { tab = Tab.Libri, price = 170 }
 
 Shop.Items["Base.BookTrapping1"] = { tab = Tab.Libri, price = 130 }
 Shop.Items["Base.BookTrapping2"] = { tab = Tab.Libri, price = 140 }
